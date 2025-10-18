@@ -1,7 +1,7 @@
 ;;; msvc-c-style.el --- msvc's C/C++ style for c-mode
 
 ;; Keywords: c, tools
-;; Package-Version: latest
+;; Package-Version: 1.0
 
 ;;; Commentary:
 
